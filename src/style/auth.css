@@ -1,0 +1,38 @@
+.auth {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+
+.auth-title {
+  font-size: 35px;
+  color: white;
+  font-weight: 600;
+}
+
+.lottie {
+  height: 400px;
+}
+
+.inputfield {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+.inputfield:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid white !important;
+}
+
+.auth label {
+  color: white !important;
+}
+
+.auth-link {
+  color: white !important;
+}
