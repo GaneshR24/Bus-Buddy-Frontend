@@ -1,5 +1,5 @@
 # Bus Buddy Frontend
-This is the frontend code for Bus Buddy, an application that helps users find bus routes and schedules in their city. The frontend is built with **React** and **Redux** and uses **axios** for API calls to the server.
+This is the frontend code for Bus Buddy, an application that helps users find bus routes allow users to search for bus routes, and book tickets online. The frontend is built with **React** and **Redux** and uses **axios** for API calls to the server.
 
 ## Features of Bus Buddy Application
 
@@ -16,3 +16,16 @@ This is the frontend code for Bus Buddy, an application that helps users find bu
 **•** **Admin:** In Bus Buddy application, an admin user may have the ability to perform various tasks such as adding, updating, or deleting bus routes, stops, schedules, fares, and other relevant information. 
 
 **•** **Booking Details:** Admin feature allows viewing all the booking details.
+
+### Demo credentials:
+**Admin Email:** admin@gmail.com | **Password:** admin123
+
+**User Email:** user@gmail.com | **Password:** user123
+
+
+### Payment Details:
+**Card Number:** 4242 4242 4242 4242
+
+**Month & Year:** 12/23
+
+**CVC:** 123
